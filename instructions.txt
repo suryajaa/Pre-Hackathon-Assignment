@@ -1,0 +1,15 @@
+Setup Instructions
+
+1. Clone the Repository
+Start by cloning the repository:
+git clone <repository_url>
+cd <repository_name>
+
+2. Install Dependencies
+Install the required dependencies using pip:
+pip install -r requirements.txt
+
+3. Run the Application
+Start the application by running:
+streamlit run app2.py
+
