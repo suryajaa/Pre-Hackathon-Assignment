@@ -5,3 +5,4 @@
 - Data Simulation and Storage: Simulated social media data is stored in Astra DB using its efficient NoSQL storage capabilities.
 - Analysis with Langflow: Langflow is used to create an intuitive workflow for querying Astra DB and processing data.
 - Insights Generation: GPT in Langflow generates insights, making the data actionable and easy to interpret.
+- The output_metadata.json file contains the facebook dataset we used, hackathon_rag.json is a langflow file
